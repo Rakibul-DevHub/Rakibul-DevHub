@@ -140,10 +140,7 @@ A Flutter/Dart UI project exploring modern liquid-glass visual effects.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakibul-DevHub&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibul-DevHub&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
+<p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=Rakibul-DevHub&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" /> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rakibul-DevHub&layout=compact&theme=tokyonight&hide_border=true" height="170" /> </p>
 
 ---
 
