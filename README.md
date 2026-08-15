@@ -2,9 +2,9 @@
 
 ### 🚀 Flutter Developer | Mobile Application Developer
 
-I’m a **Flutter Developer with 2+ years of experience**, focused on building modern, responsive, and user-friendly mobile applications.
+I'm a **Flutter Developer with 2+ years of experience**, focused on building modern, responsive, and user-friendly mobile applications.
 
-I have worked on and delivered **15+ applications** across different projects and domains, with a focus on clean code, reusable components, API integration, state management, and scalable mobile application development.
+I've worked on and delivered **15+ applications** across different projects and domains, with a focus on clean code, reusable components, API integration, state management, and scalable mobile application development.
 
 <p align="left">
   <a href="https://rakibulalam.netlify.app">
@@ -72,67 +72,69 @@ I have worked on and delivered **15+ applications** across different projects an
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-These are some of the projects currently visible among my GitHub's popular repositories.
+> A selection of projects that represent my Flutter development experience.
 
-### 🏨 Hotel Management
+## 🚚 Logistic Transport
+
+A logistics and transportation-focused application developed with Flutter/Dart.
+
+This is one of my **key projects**, demonstrating my experience building applications around real-world transportation and logistics workflows.
+
+**Tech:** Flutter • Dart
+
+🔗 **[View Repository](https://github.com/Rakibul-DevHub/Logistic-Transport)**
+
+---
+
+## 🏨 Hotel Management
 
 A Flutter/Dart application focused on hotel management.
 
 **Tech:** Flutter • Dart
 
-🔗 [View Repository](https://github.com/Rakibul-DevHub/hotelManagement)
+🔗 **[View Repository](https://github.com/Rakibul-DevHub/hotelManagement)**
 
 ---
 
-### 🏠 AtoZ VaraDen
+## 🏠 AtoZ VaraDen
 
 A live rental service software project with **mobile and web versions**.
 
 **Tech:** Flutter • Dart
 
-🔗 [View Repository](https://github.com/Rakibul-DevHub/AtoZVaraDen)
+🔗 **[View Repository](https://github.com/Rakibul-DevHub/AtoZVaraDen)**
 
 ---
 
-### 📝 BlogApp
+## 📝 BlogApp
 
 A Flutter/Dart-based blog application.
 
 **Tech:** Flutter • Dart
 
-🔗 [View Repository](https://github.com/Rakibul-DevHub/BlogApp)
+🔗 **[View Repository](https://github.com/Rakibul-DevHub/BlogApp)**
 
 ---
 
-### 📹 Video Call
+## 📹 Video Call
 
-A basic video calling application built with Flutter/Dart.
+A video calling application built with Flutter/Dart.
 
 **Tech:** Flutter • Dart
 
-🔗 [View Repository](https://github.com/Rakibul-DevHub/Video_Call)
+🔗 **[View Repository](https://github.com/Rakibul-DevHub/Video_Call)**
 
 ---
 
-### 🧊 Liquid Glass Effect
+## 🧊 Liquid Glass Effect
 
-A Flutter/Dart UI project exploring a modern liquid-glass visual effect.
-
-**Tech:** Flutter • Dart
-
-🔗 [View Repository](https://github.com/Rakibul-DevHub/liquid_glass_effect)
-
----
-
-### 🛡️ Social Shild
-
-A campus project developed with Flutter/Dart.
+A Flutter/Dart UI project exploring modern liquid-glass visual effects.
 
 **Tech:** Flutter • Dart
 
-🔗 [View Repository](https://github.com/Rakibul-DevHub/social_shild)
+🔗 **[View Repository](https://github.com/Rakibul-DevHub/liquid_glass_effect)**
 
 ---
 
@@ -163,38 +165,57 @@ A campus project developed with Flutter/Dart.
 
 ## 🧠 Currently Learning
 
+I'm continuously expanding my software engineering knowledge beyond Flutter.
+
 ```text
 Kotlin
-  ↓
+   ↓
 Android Development
-  ↓
+   ↓
 Software Testing
-  ↓
+   ↓
 System Design
-  ↓
+   ↓
 Scalable Mobile Architecture
 ```
-
-I'm currently expanding my knowledge beyond Flutter to strengthen my understanding of native Android development, testing, architecture, and scalable software systems.
 
 ---
 
 ## 🎯 Development Focus
 
 ```text
-Flutter & Dart
-       │
-       ├── UI / UX
-       ├── State Management
-       ├── REST APIs
-       ├── Firebase
-       ├── Application Architecture
-       ├── CI/CD
-       └── Performance
-              │
-              ▼
-       Scalable Mobile Apps
+                 Flutter & Dart
+                       │
+        ┌──────────────┼──────────────┐
+        ▼              ▼              ▼
+       UI/UX       State Management   APIs
+        │              │              │
+        └──────────────┼──────────────┘
+                       ▼
+                   Firebase
+                       │
+                       ▼
+                 CI/CD & Testing
+                       │
+                       ▼
+              Scalable Applications
 ```
+
+---
+
+## 🏆 What I Bring
+
+* 📱 Cross-platform mobile development with Flutter
+* 🧩 Experience with BLoC, GetX and Riverpod
+* 🔌 REST API integration
+* 🔥 Firebase integration
+* 🗄️ MySQL
+* 🚀 CI/CD experience
+* 🧹 Clean and maintainable code
+* ⚡ Focus on application performance
+* 🏗️ Growing knowledge of system design
+* 🧪 Growing knowledge of software testing
+* 🟣 Expanding into Kotlin and native Android development
 
 ---
 
