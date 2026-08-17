@@ -20,20 +20,6 @@ I've worked on and delivered **15+ applications** across different projects and 
 
 ---
 
-## 🧑‍💻 About Me
-
-* 📱 Flutter Developer specializing in cross-platform mobile applications
-* 💻 2+ years of practical development experience
-* 🚀 Delivered **15+ applications**
-* 🧩 Experienced with multiple Flutter state-management approaches
-* 🔌 Experienced in REST API integration and Firebase
-* ⚙️ Practical experience with CI/CD pipelines
-* 🧪 Currently strengthening my knowledge of software testing
-* 🏗️ Currently learning system design for scalable mobile applications
-* 🟣 Currently learning **Kotlin** and expanding my Android development knowledge
-* 🌱 Always learning and improving my software engineering skills
-
----
 
 ## 🛠️ Tech Stack
 
@@ -69,72 +55,6 @@ I've worked on and delivered **15+ applications** across different projects and 
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
 </p>
-
----
-
-# 🚀 Featured Projects
-
-> A selection of projects that represent my Flutter development experience.
-
-## 🚚 Logistic Transport
-
-A logistics and transportation-focused application developed with Flutter/Dart.
-
-This is one of my **key projects**, demonstrating my experience building applications around real-world transportation and logistics workflows.
-
-**Tech:** Flutter • Dart
-
-🔗 **[View Repository](https://github.com/Rakibul-DevHub/Logistic-Transport)**
-
----
-
-## 🏨 Hotel Management
-
-A Flutter/Dart application focused on hotel management.
-
-**Tech:** Flutter • Dart
-
-🔗 **[View Repository](https://github.com/Rakibul-DevHub/hotelManagement)**
-
----
-
-## 🏠 AtoZ VaraDen
-
-A live rental service software project with **mobile and web versions**.
-
-**Tech:** Flutter • Dart
-
-🔗 **[View Repository](https://github.com/Rakibul-DevHub/AtoZVaraDen)**
-
----
-
-## 📝 BlogApp
-
-A Flutter/Dart-based blog application.
-
-**Tech:** Flutter • Dart
-
-🔗 **[View Repository](https://github.com/Rakibul-DevHub/BlogApp)**
-
----
-
-## 📹 Video Call
-
-A video calling application built with Flutter/Dart.
-
-**Tech:** Flutter • Dart
-
-🔗 **[View Repository](https://github.com/Rakibul-DevHub/Video_Call)**
-
----
-
-## 🧊 Liquid Glass Effect
-
-A Flutter/Dart UI project exploring modern liquid-glass visual effects.
-
-**Tech:** Flutter • Dart
-
-🔗 **[View Repository](https://github.com/Rakibul-DevHub/liquid_glass_effect)**
 
 ---
 
@@ -200,21 +120,6 @@ Scalable Mobile Architecture
 
 ---
 
-## 🏆 What I Bring
-
-* 📱 Cross-platform mobile development with Flutter
-* 🧩 Experience with BLoC, GetX and Riverpod
-* 🔌 REST API integration
-* 🔥 Firebase integration
-* 🗄️ MySQL
-* 🚀 CI/CD experience
-* 🧹 Clean and maintainable code
-* ⚡ Focus on application performance
-* 🏗️ Growing knowledge of system design
-* 🧪 Growing knowledge of software testing
-* 🟣 Expanding into Kotlin and native Android development
-
----
 
 ## 🤝 Let's Connect
 
@@ -239,7 +144,5 @@ Scalable Mobile Architecture
 <p align="center">
 
 ### 💙 Thanks for visiting my profile!
-
-**Building apps • Learning continuously • Improving every day**
 
 </p>
