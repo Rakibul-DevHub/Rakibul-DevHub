@@ -64,22 +64,6 @@ I've worked on and delivered **15+ applications** across different projects and 
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rakibul-DevHub&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakibul-DevHub&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ## 🧠 Currently Learning
 
 I'm continuously expanding my software engineering knowledge beyond Flutter.
