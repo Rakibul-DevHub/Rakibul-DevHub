@@ -58,12 +58,6 @@ I've worked on and delivered **15+ applications** across different projects and 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=Rakibul-DevHub&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" /> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rakibul-DevHub&layout=compact&theme=tokyonight&hide_border=true" height="170" /> </p>
-
----
-
 ## 🧠 Currently Learning
 
 I'm continuously expanding my software engineering knowledge beyond Flutter.
